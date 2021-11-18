@@ -1,0 +1,32 @@
+*{
+    padding: 0%;
+    margin: 0%;
+}
+#pic{
+    position: absolute;
+    width: 100%;
+    height: 100%;
+}
+#heads{
+    position: relative;
+    padding-top: 20px;
+    text-align: center;  
+    color: darkred;
+    font-size: 32px;
+    font-weight: bold;
+    font-family: Georgia, 'Times New Roman', Times, serif; 
+}
+#submit{
+    position: relative;
+    margin-left: 48%;
+    width: 60px;
+    height: 28px;  
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+    font-size: 13px;
+    
+}
+#container{
+    max-width: 60%;
+    position: relative;
+}
