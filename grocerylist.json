@@ -21,7 +21,7 @@
             "Name": "Coconut Oil",
             "Quantity": "2",
             "Unit": "Litre",
-            "Department": "Oil",
+            "Department": "Grocery",
             "Notes": "KLF"
         },
         {
@@ -37,7 +37,7 @@
             "Name": "Ghee",
             "Quantity": "500",
             "Unit": "ml",
-            "Department": "Diary",
+            "Department": "Dairy",
             "Notes": "Milma"
         },
         {
@@ -53,7 +53,7 @@
             "Name": "Cerelac",
             "Quantity": "250",
             "Unit": "g",
-            "Department": "Cereal",
+            "Department": "Grocery",
             "Notes": "Nestle"
         },
         {
@@ -93,7 +93,7 @@
             "Name": "Milk",
             "Quantity": "500",
             "Unit": "ml",
-            "Department": "Diary",
+            "Department": "Dairy",
             "Notes": "Milma"
         }
     ]
